@@ -1,0 +1,12 @@
+torch
+torchvision
+rtpt
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tqdm
+setuptools
+Pillow
+colour

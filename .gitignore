@@ -1,0 +1,9 @@
+*out
+.ipynb_checkpoints/
+*pyc
+.idea/
+data_MNIST/
+data_CUB/
+results/
+pretrained/
+precomputed/
